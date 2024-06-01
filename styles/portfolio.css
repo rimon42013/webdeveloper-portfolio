@@ -15,6 +15,7 @@ body{
     color: white;
     font-weight: 700;
     padding: 18px 35px;
+  margin-bottom: 100px;  
 }
 
 /* nav related styles */
@@ -22,6 +23,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin:0 200px;
 }
 .nav-title{
     color: #181818;
@@ -41,3 +43,41 @@ nav li{
 nav a{
     text-decoration: none;
 }
+/* header related styles*/
+.header-class{
+    
+        background-color: #fff;
+        background-image: url('/Images/header-background.png');
+        background-repeat: no-repeaT;
+        background-position: bottom right;
+        background-size: 500PX;
+        
+}
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.banner .profile-picture{
+    width: 500px;
+}
+.banner-gretting{
+   font-size: 45px;
+   color: #474747;
+   margin-bottom: o;
+   
+}
+.banner-title{
+    font-size: 85px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.banner-discription{
+    margin-bottom: 40px;
+}
+.banner-contant{
+    max-width: 500px;
+}
+
