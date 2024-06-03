@@ -60,11 +60,14 @@ nav a{
     
         background-color: #fff;
         background-image: url('/Images/images.jpg');
+        
         background-repeat: no-repeaT;
         background-position: bottom right;
+        
         background-size: 1800px;
         
 }
+
 .banner{
     padding: 30px 30px 0px 150px;
     display: flex;
