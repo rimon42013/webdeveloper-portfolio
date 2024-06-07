@@ -43,8 +43,8 @@ margin-bottom: 100px;
     background-color: beige;
     background-image: url('/Images/images.jpg');
     background-repeat: no-repeat;
-    background-size: cover;
-    /* position: bottom right; */
+    background-size: 1800px;
+    background-position: bottom right;
 }
 .banner .first-pic{
     width: 500px;
